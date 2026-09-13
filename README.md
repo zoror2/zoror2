@@ -4,7 +4,7 @@
 
 ### AI/ML • Computer Vision • Software Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+with+AI+%26+Computer+Vision;Python+%7C+Java+%7C+Backend+Development;Turning+ideas+into+working+systems;Always+building.+Always+learning." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+with+AI+%26+Computer+Vision;Turning+ideas+into+working+systems;Always+building.+Always+learning." />
 
 <br/>
 
