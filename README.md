@@ -172,3 +172,22 @@ From dataset preparation and model training to APIs, deployment and user-facing 
 <img src="https://komarev.com/ghpvc/?username=zoror2&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/zoror2/zoror2/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/zoror2/zoror2/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/zoror2/zoror2/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
